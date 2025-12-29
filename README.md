@@ -36,7 +36,7 @@ ecommerce-sql-analysis/
    
    ├── 06_top_customers.png
    
-   ├── 07_customer_segmentation.png
+   ├── 07_customer repeat & one-time.png
    
    └── 08_high_sales_low_margin_proxy.png
    
