@@ -35,6 +35,5 @@ This project analyzes the Online Retail dataset using SQL (SQLite) to extract bu
 2. Run queries from `queries.sql` in order. Relevant queries include data cleaning (create `clean_retail` view), KPI queries, product/customer aggregations, and proxy margin analysis.
 
 ## Contact / Repo author
-- [Your Name] — (use the name you put on GitHub)
-- Link to portfolio/resume: (optional)
+- [jahanvi shrivastava] — (use the name you put on GitHub)
 
