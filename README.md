@@ -18,6 +18,7 @@ GitHub for version control and portfolio presentation
 📁 Repository Structure
 ecommerce-sql-analysis/
 │
+
 ├── README.md
 
 ├── queries.sql
