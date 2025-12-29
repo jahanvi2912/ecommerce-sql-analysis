@@ -21,6 +21,7 @@ ecommerce-sql-analysis/
 ├── README.md
 ├── queries.sql
 └──  screenshots/
+
    ├── 01_executive_summary_metrics.png
    ├── 02_monthly_sales_query.png
    ├── 03_monthly_sales_output.png
