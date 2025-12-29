@@ -22,7 +22,6 @@ This project analyzes the Online Retail dataset using SQL (SQLite) to extract bu
 ## Files
 - `queries.sql` — all final SQL queries (commented).
 - `screenshots/` — query and result screenshots.
-- `dataset/online_retail_sample.csv` — small sample (optional).
 
 ## Key insights (summary)
 - Monthly seasonality identified; peak months are shown in screenshots.
@@ -35,5 +34,5 @@ This project analyzes the Online Retail dataset using SQL (SQLite) to extract bu
 2. Run queries from `queries.sql` in order. Relevant queries include data cleaning (create `clean_retail` view), KPI queries, product/customer aggregations, and proxy margin analysis.
 
 ## Contact / Repo author
-- [jahanvi shrivastava] — (use the name you put on GitHub)
+- Jahanvi Shrivastava
 
