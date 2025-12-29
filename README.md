@@ -19,17 +19,27 @@ GitHub for version control and portfolio presentation
 ecommerce-sql-analysis/
 │
 ├── README.md
+
 ├── queries.sql
+
 └──  screenshots/
 
    ├── 01_executive_summary_metrics.png
+   
    ├── 02_monthly_sales_query.png
+   
    ├── 03_monthly_sales_output.png
+   
    ├── 04_peak_sales_months.png
+   
    ├── 05_top_products.png
+   
    ├── 06_top_customers.png
+   
    ├── 07_customer_segmentation.png
+   
    └── 08_high_sales_low_margin_proxy.png
+   
 
 
 📌 Business Questions Addressed
